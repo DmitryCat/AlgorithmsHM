@@ -1,4 +1,4 @@
-package StringList.Exception;
+package IntegerList.Exception;
 
 public class InvalidIndexException extends RuntimeException {
     public InvalidIndexException() {

@@ -1,4 +1,4 @@
-package StringList.Exception;
+package IntegerList.Exception;
 
 public class ElementNotFoundException extends RuntimeException {
     public ElementNotFoundException() {

@@ -1,4 +1,4 @@
-package StringList.Exception;
+package IntegerList.Exception;
 
 public class NullItemException extends RuntimeException {
     public NullItemException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {

@@ -1,4 +1,4 @@
-package StringList.Exception;
+package IntegerList.Exception;
 
 public class StorageIsFullException extends RuntimeException {
     public StorageIsFullException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
